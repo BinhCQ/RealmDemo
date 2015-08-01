@@ -6,6 +6,7 @@
  Hồi ở [Nikme](http://nikmesoft.com/), công ty viết ra một thư viện chung, hỗ trợ cho các thao tác lặp đi lặp lại này để giảm thiểu thời gian phát triển đồng thời giúp tương tác với SQLite tốt hơn, code dễ bảo trì hơn...
 2. <strong>Sử dụng thư viện ORM (Object Relational Mapping)</strong>
  ORM thực sự hữu ích khi chuyển (ánh xạ) các bảng trong SQLite vào các đối tượng (model), mọi thao tác với SQLite bây giờ được thực hiện qua các đối tượng này. Tuy nhiên, việc sử dụng ORM phát sinh ra vấn đề về hiệu năng, độ ổn định. [ActiveAndroid](https://github.com/pardom/ActiveAndroid) là một ví dụ.
+
 ## Realm - Giải pháp thay thế cho SQLite
 > Realm is a replacement for SQLite & Core Data. 
 It can save you thousands of lines of code & weeks of work, 

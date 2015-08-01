@@ -19,7 +19,7 @@ Realm lưu dữ liệu trên bộ nhớ trong. Realm hỗ trợ đa nền tảng
  Việc làm quen, tiếp cận với Realm cực kỳ dễ dàng và đơn giản.
  Vậy Realm còn có gì để tự tin tuyên bố mình là giải pháp thay thế cho SQLite?
 * Cộng đồng hỗ trợ đông đảo, nhiệt tình
-Nếu có bất cứ vấn đề, thắc mắc gì, bạn sẽ được hỗ trợ trực tiếp bởi các lập trình viên phát triển Realm, và cộng đồng nguồn mở trên (github](https://github.com/realm) và [Stack Over Flow](https://stackoverflow.com/questions/tagged/realm?sort=newest).
+Nếu có bất cứ vấn đề, thắc mắc gì, bạn sẽ được hỗ trợ trực tiếp bởi các lập trình viên phát triển Realm, và cộng đồng nguồn mở trên [github](https://github.com/realm) và [Stack Over Flow](https://stackoverflow.com/questions/tagged/realm?sort=newest).
 * Dữ liệu được kết nối trực tiếp tới CSDL chứ không tạo ra bản sao khi truy vấn.
 Do đó, các thao tác với dữ liệu sau khi truy vấn (tìm kiếm, sắp xếp, lọc,...) đều được thực hiện thẳng trên CSDL.
 * Realm classes hỗ trợ nhiều trong việc tránh lỗi Null Pointer Exception.
